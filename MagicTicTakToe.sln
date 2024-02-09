@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicTicTakToe", "MagicTicTakToe\MagicTicTakToe.csproj", "{FC28437A-F541-4C0A-A4BD-7D211D697901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC28437A-F541-4C0A-A4BD-7D211D697901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC28437A-F541-4C0A-A4BD-7D211D697901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC28437A-F541-4C0A-A4BD-7D211D697901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC28437A-F541-4C0A-A4BD-7D211D697901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB623E38-E34C-4F0C-BE45-AC063A81A851}
+	EndGlobalSection
+EndGlobal

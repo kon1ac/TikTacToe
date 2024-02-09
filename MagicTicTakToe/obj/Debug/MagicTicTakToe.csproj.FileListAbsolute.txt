@@ -1,0 +1,15 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\bin\Debug\MagicTicTakToe.exe.config
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\bin\Debug\MagicTicTakToe.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\bin\Debug\MagicTicTakToe.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.csproj.AssemblyReference.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MainWindow.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\App.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe_MarkupCompile.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe_MarkupCompile.lref
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MainWindow.baml
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.g.resources
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.Properties.Resources.resources
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.csproj.GenerateResource.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicTicTakToe\MagicTicTakToe\obj\Debug\MagicTicTakToe.pdb
